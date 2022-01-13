@@ -3,6 +3,7 @@ Data exploration and visualization project on bank_marketing_campaign dataset us
 By Yogesh Sachdeva, Ayushi Arora and Kriti Suri
 
 INTRODUCTION- The data is related with direct marketing campaigns of a banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
 Objectives of the Project
 
 1.To explore the dataset for understanding the variables
